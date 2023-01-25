@@ -115,7 +115,7 @@ button{
   }
   
   main{
-    width: 40%;
+    width: 32%;
   }
   button:hover, a:hover{
     cursor: pointer;
